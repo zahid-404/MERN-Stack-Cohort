@@ -41,7 +41,7 @@ To document my progress and share my learnings with others, I'll be using this r
 You can connect with me via the following means:
 
 - **GitHub:** [My GitHub Profile](https://github.com/zahid-404)
-- **Email:** [your.email@example.com](mailto:zahidmohammad495@gmail.com)
+- **Email:** [zahidmohammad495@gmail.com](mailto:zahidmohammad495@gmail.com)
 
 I look forward to sharing my journey and learning experiences with you. Stay tuned for updates and happy learning!
 
